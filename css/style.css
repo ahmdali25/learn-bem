@@ -1,0 +1,42 @@
+.card {
+  padding: 20px;
+  border: 1px solid #ddd;
+  border-radius: 3px;
+  width: 400px;
+}
+
+.card--primary {
+  background-color: skyblue;
+  color: white;
+}
+
+.card__image {
+  width: 400px;
+  height: 400px;
+}
+
+.card__title {
+  font-size: 24px;
+}
+
+.card__text {
+  color: black;
+  font-size: 14px;
+}
+
+.card__button {
+  border: none;
+  padding: 10px 10px;
+  font-size: 14px;
+  border-radius: 2px;
+}
+
+.card__button--primary {
+  background-color: blue;
+  color: white;
+}
+
+.card__button--secondary {
+  background-color: lightblue;
+}
+/*# sourceMappingURL=style.css.map */
